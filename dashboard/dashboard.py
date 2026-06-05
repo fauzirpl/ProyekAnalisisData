@@ -204,8 +204,8 @@ with col_left2:
     plt.tight_layout()
     st.pyplot(fig2)
     st.markdown("""
-    * **Hari Kerja:** Pola *bimodal* dengan dua puncak tajam pada jam berangkat kerja (**08:00**) dan jam pulang kerja (**17:00 - 18:00**).
-    * **Hari Libur:** Pola *unimodal* di mana permintaan memuncak di siang hingga sore hari (**12:00 - 16:00**).
+    * **Hari Kerja:** Puncak penyewaan terjadi pada jam berangkat kerja (**08:00**) dan jam pulang kerja (**17:00 - 18:00**).
+    * **Hari Libur:** Permintaan penyewaat memuncak di siang hingga sore hari (**12:00 - 16:00**).
     """)
 
 with col_right2:
